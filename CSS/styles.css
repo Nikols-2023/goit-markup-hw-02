@@ -1,0 +1,238 @@
+
+body {
+    font-family: Roboto, sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+    line-height: 1.5;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.111;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+.logo {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.167;
+    letter-spacing: 0.03em;
+    color: #2E2F42;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.span-logo-top {
+    color: #4D5AE5;
+}
+
+.main-nav {
+    color: #2E2F42;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.nav-link {
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #404BBF;
+}
+
+.nav-link:focus {
+    color: #404BBF;
+}
+
+
+.address {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-style: normal;
+}
+
+.address-link:hover {
+    color: #404BBF;
+}
+
+.address-link:focus {
+    color: #404BBF;
+}
+
+.address-link {
+    color: #434455;
+    text-decoration: none;
+}
+
+
+
+.main-hero {
+    background-color: #2E2F42;
+}
+
+.main-hero-text {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.071;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    text-align: center;
+}
+
+.main-hero-button {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.main-hero-button:hover {
+    background-color: #404BBF;
+}
+
+.main-hero-button:focus {
+    background-color: #404BBF;
+}
+
+
+
+.our-team {
+    background-color: #F4F4FD;
+}
+
+.text-our-team {
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.111;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.main-mark-guerrero {
+    background-color: #ffffff;
+
+}
+
+.main-tom-ford {
+    background-color: #ffffff;
+}
+
+.main-camila-garcia {
+    background-color: #ffffff;
+}
+
+.main-daniel-wilson {
+    background-color: #ffffff;
+}
+
+.name-worker {
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.profesion {
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
+
+.our-portfolio {
+    background-color: #ffffff;
+}
+
+.text-our-portfolio {
+    text-align: center;
+}
+
+.name-service {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.text-service {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.logo-footer {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.167;
+    letter-spacing: 0.03em;
+    color: #F4F4FD;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.span-logo-bottom {
+    color: #4D5AE5;
+}
+
+.text-footer {
+    color: #F4F4FD;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
